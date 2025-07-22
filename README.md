@@ -41,7 +41,7 @@ This project helps simplify that by giving up-to-date, structured data and clear
 
 ## 📸 Sample Dashboard
 
-![Power BI Dashboard](PG%20data%20dashboard_page-0001.png)
+![Power BI Dashboard](PG%20data%20dashboard_page-0001.jpg)
 
 ---
 
